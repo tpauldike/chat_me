@@ -11,10 +11,7 @@ const Header = () => {
           Let's Build Something amazing with GPT-3 OpenAI
         </h1>
         <p>
-          Yet bed any for travelling assistance indulgence unpleasing. Not
-          thoughts all exercise blessing. Indulgence way everything joy
-          alteration boisterous the attachment. Party we years to order allow
-          asked of.
+        GPT-3 has found applications in various fields, including natural language understanding, content generation, and chatbot development, among others. Join several developers and researchers to explore its potentials.
         </p>
         <div className="gpt3__header-content__input">
           <input type="email" placeholder="Your Email Address" />
